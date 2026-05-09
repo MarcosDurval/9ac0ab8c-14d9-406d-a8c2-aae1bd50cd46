@@ -1,3 +1,3 @@
-# API de Orçamentos
+# API
 
 A API está em `/api`.
